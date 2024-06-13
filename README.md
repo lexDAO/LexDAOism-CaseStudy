@@ -15,15 +15,57 @@ columns 1
   db(("LexDAO member contribution"))
   blockArrowId6<["&nbsp;&nbsp;&nbsp;"]>(down)
   block:ID
-    block:Comms
-    end
+    Communications
     LexEd["LexEd activities"]
-    block:Projects
+    LEETH["Projects (curated/timelocked)"]
     end
   end
   space
-  D
+  D(("Social media channels"))
   ID --> D
-  C --> D
+  LEETH --> D
   style B fill:#969,stroke:#333,stroke-width:4px
 ```
+
+The following event formats are used/preferred:
+1. Panel {experts}+moderator
+2. Moot Court {team} v {team} = audience(judge)
+3. Birds of a Feather (circle + peer review)
+
+# End distribution
+
+- YouTube channel
+- github wiki + hackMD (commentary)
+- internal transcripts (raw)
+
+# End audience
+
+1. LexDAo paid-up members 
+2. Partners (xref timelock)
+3. General Public
+
+We strive for creative commons CC-BY-NC-SA, however in external projects there may be publication constraints due to commercial sensitivity in which case there may be a timelock for future release. We may not have control over the timing as Education Circle depend on volunteers to translate, seek funding for graphics & A/V (not our forte) and collate peer feedback. We strive to operate in a do-ocracy with the LexEd circle:
+- reaching out to thought leaders
+- upholding pedagological standards; and
+- partner with institutions for our [experiential learning]() eg hackathons
+
+# Current Cadence
+
+```mermaid
+timeline
+  title LexDAO Study Group (expert panel) 2024
+    1Q  :  **DUNA**
+    2Q  :  _hackathon_
+    3Q  :  ~~BoF SPV~~
+```
+
+bold = public, italic = in workup, ~~not recorded~~
+
+# POAPs
+
+Attending certain sessions may accumulate POAPs as evidence of contribution to chartered legal engineering status
+
+# Work in Progress
+
+Contact @pmgandi (case studies) or @drllau (case work) for the most recent open bounties.
+
