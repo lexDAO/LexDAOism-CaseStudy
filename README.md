@@ -18,7 +18,6 @@ columns 1
     Communications
     LexEd["LexEd activities"]
     LEETH["Projects (curated/timelocked)"]
-    end
   end
   space
   D(("Social media channels"))
@@ -44,7 +43,7 @@ The following event formats are used/preferred:
 2. Partners (xref timelock)
 3. General Public
 
-We strive for creative commons CC-BY-NC-SA, however in external projects there may be publication constraints due to commercial sensitivity in which case there may be a timelock for future release. We may not have control over the timing as Education Circle depend on volunteers to translate, seek funding for graphics & A/V (not our forte) and collate peer feedback. We strive to operate in a do-ocracy with the LexEd circle:
+We strive for creative commons `CC-BY-NC-SA`, however in external LEETH projects there may be publication constraints due to commercial sensitivity in which case there may be a timelock for future release. We may not have control over the timing as Education Circle depend on volunteers to translate, seek funding for graphics & A/V (not our forte) and collate peer feedback. We strive to operate in a do-ocracy with the LexEd circle:
 - reaching out to thought leaders
 - upholding pedagological standards; and
 - partner with institutions for our [experiential learning]() eg hackathons
@@ -54,9 +53,9 @@ We strive for creative commons CC-BY-NC-SA, however in external projects there m
 ```mermaid
 timeline
   title LexDAO Study Group (expert panel) 2024
-    1Q  :  **DUNA**
-    2Q  :  _hackathon_
-    3Q  :  ~~BoF SPV~~
+    1Q  :  <b>DUNA</b>
+    2Q  :  <i>hackathon</i>
+    3Q  :  <u>BoF SPV</u>
 ```
 
 bold = public, italic = in workup, ~~not recorded~~
