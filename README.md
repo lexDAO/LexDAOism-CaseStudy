@@ -12,12 +12,14 @@ As per constitution,
 ```mermaid
 block-beta
 columns 1
-  db(("DB"))
+  db(("LexDAO member contribution"))
   blockArrowId6<["&nbsp;&nbsp;&nbsp;"]>(down)
   block:ID
-    A
-    B["A wide one in the middle"]
-    C
+    block:Comms
+    end
+    LexEd["LexEd activities"]
+    block:Projects
+    end
   end
   space
   D
